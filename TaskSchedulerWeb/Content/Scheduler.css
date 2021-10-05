@@ -1,0 +1,80 @@
+﻿@media (min-width: 1305px) {
+  .h-custom {
+    height: 30vh !important;
+  }
+}
+@media screen and (min-width: 1024px) {
+   .h-custom {
+    height: 30vh !important;
+  }
+}
+@media (min-height: 690px) {
+.h-custom {
+    height: 30vh !important;
+  }
+}
+
+.card-registration .select-input .form-control[readonly]:not([disabled]) {
+  font-size: 1rem;
+  line-height: 2.15;
+  padding-left: .75em;
+  padding-right: .75em;
+}
+
+@media (min-width: 428px) {
+  .card-registration-2  {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+  }
+}
+ .card-registration .select-arrow {
+  top: 13px;
+}
+ .space label
+ {
+padding:5px;
+ }
+.once
+ {
+   padding-left:20px;
+ }
+ 
+ .width{
+   width:30%;
+ }
+ #leftbox{
+               float:left; 
+                width:20%;
+                height:220px;
+            }
+
+ #rightbox{
+                float:right; 
+                background-color:azure;
+                width:80%;
+                height:220px;
+                padding-top:2%;
+            }
+#daily{
+    padding:10px 0px 0px 35px;
+
+}
+#weekly{
+       padding:10px 0px 0px 10px;
+       float:left; 
+     width:30%;
+     height:260px;
+}
+#monthly{
+    padding-top:20px;
+    float:right; 
+     width:70%;
+     height:260px;
+}
+.weekly-checkbox{
+    padding-left:80px;
+}
+#listTable{
+    padding-top:10px;
+    overflow-x:scroll;
+}
